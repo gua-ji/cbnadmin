@@ -16,7 +16,6 @@ import java.util.Set;
 /**
  * 认证
  *
-
  */
 @Component
 public class OAuth2Realm extends AuthorizingRealm {

@@ -9,7 +9,6 @@ import javax.validation.constraints.NotBlank;
 /**
  * 系统配置信息
  *
-
  */
 @Data
 @TableName("sys_config")

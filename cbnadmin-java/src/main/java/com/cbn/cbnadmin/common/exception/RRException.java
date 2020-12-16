@@ -3,7 +3,6 @@
 /**
  * 自定义异常
  *
-
  */
 public class RRException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

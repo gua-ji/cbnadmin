@@ -13,7 +13,6 @@ import java.util.Date;
 /**
  * jwt工具类
  *
-
  */
 @ConfigurationProperties(prefix = "cbn.jwt")
 @Component

@@ -15,7 +15,6 @@ import java.util.Map;
 /**
  * 配置多数据源
  *
-
  */
 @Configuration
 @EnableConfigurationProperties(DynamicDataSourceProperties.class)

@@ -3,7 +3,6 @@
 /**
  * 七牛
  *
-
  */
 public interface QiniuGroup {
 }

@@ -3,7 +3,6 @@
 /**
  * 系统参数相关Key
  *
-
  */
 public class ConfigConstant {
     /**

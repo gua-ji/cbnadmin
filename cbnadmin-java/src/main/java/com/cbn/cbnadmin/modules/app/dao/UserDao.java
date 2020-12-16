@@ -7,7 +7,6 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 用户
  *
-
  */
 @Mapper
 public interface UserDao extends BaseMapper<UserEntity> {

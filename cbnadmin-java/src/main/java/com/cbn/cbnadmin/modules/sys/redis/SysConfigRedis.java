@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 /**
  * 系统配置Redis
  *
-
  */
 @Component
 public class SysConfigRedis {

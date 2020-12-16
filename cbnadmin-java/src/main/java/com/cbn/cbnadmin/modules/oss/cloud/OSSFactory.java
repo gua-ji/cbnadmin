@@ -9,7 +9,6 @@ import com.cbn.cbnadmin.common.utils.SpringContextUtils;
 /**
  * 文件上传Factory
  *
-
  */
 public final class OSSFactory {
     private static SysConfigService sysConfigService;

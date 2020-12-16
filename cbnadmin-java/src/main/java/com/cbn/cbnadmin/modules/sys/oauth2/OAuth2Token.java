@@ -6,7 +6,6 @@ import org.apache.shiro.authc.AuthenticationToken;
 /**
  * token
  *
-
  */
 public class OAuth2Token implements AuthenticationToken {
     private String token;

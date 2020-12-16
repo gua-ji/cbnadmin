@@ -9,7 +9,6 @@ import java.util.Map;
 /**
  * 文件上传
  *
-
  */
 public interface SysOssService extends IService<SysOssEntity> {
 

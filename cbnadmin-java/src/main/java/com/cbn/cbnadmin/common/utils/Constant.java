@@ -3,7 +3,6 @@
 /**
  * 常量
  *
-
  */
 public class Constant {
 	/** 超级管理员ID */

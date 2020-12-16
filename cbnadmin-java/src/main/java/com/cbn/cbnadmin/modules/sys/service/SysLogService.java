@@ -11,7 +11,6 @@ import java.util.Map;
 /**
  * 系统日志
  *
-
  */
 public interface SysLogService extends IService<SysLogEntity> {
 

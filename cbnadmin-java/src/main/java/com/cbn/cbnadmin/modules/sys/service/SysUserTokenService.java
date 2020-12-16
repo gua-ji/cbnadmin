@@ -7,7 +7,6 @@ import com.cbn.cbnadmin.modules.sys.entity.SysUserTokenEntity;
 /**
  * 用户Token
  *
-
  */
 public interface SysUserTokenService extends IService<SysUserTokenEntity> {
 

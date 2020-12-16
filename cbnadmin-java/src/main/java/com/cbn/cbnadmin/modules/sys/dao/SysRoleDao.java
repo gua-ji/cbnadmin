@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 角色管理
  *
-
  */
 @Mapper
 public interface SysRoleDao extends BaseMapper<SysRoleEntity> {

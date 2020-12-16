@@ -18,7 +18,6 @@ import java.util.Map;
 /**
  * APP登录授权
  *
-
  */
 @RestController
 @RequestMapping("/app")

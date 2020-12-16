@@ -8,7 +8,6 @@ import java.util.UUID;
 /**
  * 生成token
  *
-
  */
 public class TokenGenerator {
 

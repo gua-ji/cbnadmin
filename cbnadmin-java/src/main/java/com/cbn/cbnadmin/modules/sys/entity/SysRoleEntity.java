@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 角色
  *
-
  */
 @Data
 @TableName("sys_role")

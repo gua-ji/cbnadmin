@@ -3,7 +3,6 @@
 /**
  * 腾讯云
  *
-
  */
 public interface QcloudGroup {
 }

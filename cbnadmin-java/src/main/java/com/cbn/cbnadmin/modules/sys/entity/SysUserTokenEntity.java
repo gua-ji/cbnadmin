@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 系统用户Token
  *
-
  */
 @Data
 @TableName("sys_user_token")

@@ -15,7 +15,6 @@ import java.io.Serializable;
 /**
  * 云存储配置信息
  *
-
  */
 @Data
 public class CloudStorageConfig implements Serializable {

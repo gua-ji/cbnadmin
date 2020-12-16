@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 菜单管理
  *
-
  */
 @Mapper
 public interface SysMenuDao extends BaseMapper<SysMenuEntity> {

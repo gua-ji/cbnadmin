@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * APP测试接口
  *
-
  */
 @RestController
 @RequestMapping("/app")

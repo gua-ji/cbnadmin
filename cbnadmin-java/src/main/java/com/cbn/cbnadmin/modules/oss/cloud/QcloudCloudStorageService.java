@@ -15,7 +15,6 @@ import java.io.InputStream;
 /**
  * 腾讯云存储
  *
-
  */
 public class QcloudCloudStorageService extends CloudStorageService {
     private COSClient client;

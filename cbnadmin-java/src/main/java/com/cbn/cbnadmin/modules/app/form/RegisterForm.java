@@ -7,7 +7,6 @@ import javax.validation.constraints.NotBlank;
 /**
  * 注册表单
  *
-
  */
 @Data
 public class RegisterForm {

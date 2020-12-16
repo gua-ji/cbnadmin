@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 菜单管理
  *
-
  */
 public interface SysMenuService extends IService<SysMenuEntity> {
 

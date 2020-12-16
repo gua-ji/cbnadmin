@@ -8,7 +8,6 @@ import com.cbn.cbnadmin.modules.app.form.LoginForm;
 /**
  * 用户
  *
-
  */
 public interface UserService extends IService<UserEntity> {
 

@@ -7,7 +7,6 @@ import javax.validation.constraints.NotBlank;
 /**
  * 登录表单
  *
-
  */
 @Data
 public class LoginForm {
