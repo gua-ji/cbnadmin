@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.exception;
+package com.cbn.cbnadmin.common.exception;
 
 import com.cbn.cbnadmin.common.utils.R;
 import org.apache.shiro.authz.AuthorizationException;

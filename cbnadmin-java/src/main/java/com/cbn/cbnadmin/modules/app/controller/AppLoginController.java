@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.controller;
+package com.cbn.cbnadmin.modules.app.controller;
 
 
 import com.cbn.cbnadmin.common.utils.R;

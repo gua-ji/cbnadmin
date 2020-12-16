@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.resolver;
+package com.cbn.cbnadmin.modules.app.resolver;
 
 import com.cbn.cbnadmin.modules.app.interceptor.AuthorizationInterceptor;
 import com.cbn.cbnadmin.modules.app.service.UserService;

@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.exception;
+package com.cbn.cbnadmin.common.exception;
 
 /**
  * 自定义异常

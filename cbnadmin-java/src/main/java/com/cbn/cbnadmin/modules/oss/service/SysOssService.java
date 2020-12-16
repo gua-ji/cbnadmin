@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.oss.service;
+package com.cbn.cbnadmin.modules.oss.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.cbn.cbnadmin.modules.oss.entity.SysOssEntity;

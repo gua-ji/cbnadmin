@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.annotation;
+package com.cbn.cbnadmin.modules.app.annotation;
 
 import java.lang.annotation.*;
 

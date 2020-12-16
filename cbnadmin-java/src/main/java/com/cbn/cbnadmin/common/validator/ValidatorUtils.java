@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.validator;
+package com.cbn.cbnadmin.common.validator;
 
 import com.cbn.cbnadmin.common.exception.RRException;
 

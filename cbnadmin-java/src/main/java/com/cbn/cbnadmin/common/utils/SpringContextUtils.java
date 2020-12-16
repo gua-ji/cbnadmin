@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.utils;
+package com.cbn.cbnadmin.common.utils;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

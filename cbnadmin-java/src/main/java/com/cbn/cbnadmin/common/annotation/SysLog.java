@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.annotation;
+package com.cbn.cbnadmin.common.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

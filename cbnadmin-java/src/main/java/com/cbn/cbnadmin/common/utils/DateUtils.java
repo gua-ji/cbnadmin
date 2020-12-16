@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.utils;
+package com.cbn.cbnadmin.common.utils;
 
 import org.apache.commons.lang.StringUtils;
 import org.joda.time.DateTime;

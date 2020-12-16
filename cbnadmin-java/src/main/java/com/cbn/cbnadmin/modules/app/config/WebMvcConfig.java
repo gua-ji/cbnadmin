@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.config;
+package com.cbn.cbnadmin.modules.app.config;
 
 import com.cbn.cbnadmin.modules.app.interceptor.AuthorizationInterceptor;
 import com.cbn.cbnadmin.modules.app.resolver.LoginUserHandlerMethodArgumentResolver;

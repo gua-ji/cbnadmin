@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.utils;
+package com.cbn.cbnadmin.common.utils;
 
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;

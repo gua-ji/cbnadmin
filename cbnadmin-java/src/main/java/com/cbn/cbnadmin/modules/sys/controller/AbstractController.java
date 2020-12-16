@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.controller;
+package com.cbn.cbnadmin.modules.sys.controller;
 
 import com.cbn.cbnadmin.modules.sys.entity.SysUserEntity;
 import org.apache.shiro.SecurityUtils;

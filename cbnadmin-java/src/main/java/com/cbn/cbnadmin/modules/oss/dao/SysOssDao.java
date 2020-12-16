@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.oss.dao;
+package com.cbn.cbnadmin.modules.oss.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.cbn.cbnadmin.modules.oss.entity.SysOssEntity;

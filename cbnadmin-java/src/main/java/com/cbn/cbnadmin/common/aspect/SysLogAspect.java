@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.aspect;
+package com.cbn.cbnadmin.common.aspect;
 
 import com.cbn.cbnadmin.common.annotation.SysLog;
 import com.cbn.cbnadmin.modules.sys.entity.SysLogEntity;

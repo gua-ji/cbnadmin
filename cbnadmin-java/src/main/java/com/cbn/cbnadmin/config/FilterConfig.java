@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.config;
+package com.cbn.cbnadmin.config;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.oss.entity;
+package com.cbn.cbnadmin.modules.oss.entity;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;

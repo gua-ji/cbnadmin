@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.form;
+package com.cbn.cbnadmin.modules.sys.form;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.utils;
+package com.cbn.cbnadmin.common.utils;
 
 import com.alibaba.druid.util.StringUtils;
 import org.slf4j.Logger;

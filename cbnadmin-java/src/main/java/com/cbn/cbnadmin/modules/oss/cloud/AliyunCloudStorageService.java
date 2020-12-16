@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.oss.cloud;
+package com.cbn.cbnadmin.modules.oss.cloud;
 
 import com.aliyun.oss.OSSClient;
 import com.cbn.cbnadmin.common.exception.RRException;

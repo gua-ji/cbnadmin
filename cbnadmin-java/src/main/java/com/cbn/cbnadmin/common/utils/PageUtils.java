@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.utils;
+package com.cbn.cbnadmin.common.utils;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 

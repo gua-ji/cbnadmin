@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.config;
+package com.cbn.cbnadmin.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.utils;
+package com.cbn.cbnadmin.common.utils;
 
 import com.cbn.cbnadmin.common.exception.RRException;
 import com.cbn.cbnadmin.modules.sys.entity.SysUserEntity;

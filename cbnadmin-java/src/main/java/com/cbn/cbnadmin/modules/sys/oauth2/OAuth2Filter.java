@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.oauth2;
+package com.cbn.cbnadmin.modules.sys.oauth2;
 
 import com.google.gson.Gson;
 import com.cbn.cbnadmin.common.utils.HttpContextUtils;

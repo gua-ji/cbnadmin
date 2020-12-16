@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.config;
+package com.cbn.cbnadmin.config;
 
 import com.cbn.cbnadmin.modules.sys.oauth2.OAuth2Filter;
 import com.cbn.cbnadmin.modules.sys.oauth2.OAuth2Realm;

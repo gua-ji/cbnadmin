@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.config;
+package com.cbn.cbnadmin.config;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.springframework.context.annotation.Bean;

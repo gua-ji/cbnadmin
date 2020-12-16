@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.service;
+package com.cbn.cbnadmin.modules.app.service;
 
 
 import com.baomidou.mybatisplus.extension.service.IService;

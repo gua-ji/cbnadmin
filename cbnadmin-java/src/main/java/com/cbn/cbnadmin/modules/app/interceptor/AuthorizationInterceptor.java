@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.interceptor;
+package com.cbn.cbnadmin.modules.app.interceptor;
 
 
 import io.jsonwebtoken.Claims;

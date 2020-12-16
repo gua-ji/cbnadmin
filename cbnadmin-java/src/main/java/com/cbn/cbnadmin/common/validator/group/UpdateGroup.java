@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.common.validator.group;
+package com.cbn.cbnadmin.common.validator.group;
 
 /**
  * 更新数据 Group

@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.oauth2;
+package com.cbn.cbnadmin.modules.sys.oauth2;
 
 import com.cbn.cbnadmin.modules.sys.service.ShiroService;
 import com.cbn.cbnadmin.modules.sys.entity.SysUserEntity;

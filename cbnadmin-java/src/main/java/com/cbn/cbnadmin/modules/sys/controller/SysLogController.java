@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.controller;
+package com.cbn.cbnadmin.modules.sys.controller;
 
 import com.cbn.cbnadmin.common.utils.PageUtils;
 import com.cbn.cbnadmin.common.utils.R;

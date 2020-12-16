@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.service.impl;
+package com.cbn.cbnadmin.modules.app.service.impl;
 
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;

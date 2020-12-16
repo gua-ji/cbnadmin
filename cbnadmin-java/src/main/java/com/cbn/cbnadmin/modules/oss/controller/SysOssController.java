@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.oss.controller;
+package com.cbn.cbnadmin.modules.oss.controller;
 
 import com.cbn.cbnadmin.modules.sys.service.SysConfigService;
 import com.google.gson.Gson;

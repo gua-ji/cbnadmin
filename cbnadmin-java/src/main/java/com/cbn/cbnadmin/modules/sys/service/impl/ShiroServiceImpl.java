@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.service.impl;
+package com.cbn.cbnadmin.modules.sys.service.impl;
 
 import com.cbn.cbnadmin.common.utils.Constant;
 import com.cbn.cbnadmin.modules.sys.dao.SysMenuDao;

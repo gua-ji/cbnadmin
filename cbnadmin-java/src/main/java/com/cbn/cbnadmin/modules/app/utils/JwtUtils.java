@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.app.utils;
+package com.cbn.cbnadmin.modules.app.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

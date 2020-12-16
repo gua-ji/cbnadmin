@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.redis;
+package com.cbn.cbnadmin.modules.sys.redis;
 
 
 import com.cbn.cbnadmin.modules.sys.entity.SysConfigEntity;

@@ -1,4 +1,4 @@
- package com.cbn.cbnadmin.modules.sys.dao;
+package com.cbn.cbnadmin.modules.sys.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.cbn.cbnadmin.modules.sys.entity.SysRoleMenuEntity;
